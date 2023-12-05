@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+
+nav{
+  background-color: aliceblue;
+  padding: 4px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.links{
+  flex-basis: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+nav a{
+  text-decoration: none;
+}
+
+nav a.active{
+  font-weight: bold;
+  color: black;
+}
