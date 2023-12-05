@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StoreCodeATS/static/css/main.03d4acd8.css",
+    "main.js": "/StoreCodeATS/static/js/main.a71126a5.js",
+    "index.html": "/StoreCodeATS/index.html",
+    "main.03d4acd8.css.map": "/StoreCodeATS/static/css/main.03d4acd8.css.map",
+    "main.a71126a5.js.map": "/StoreCodeATS/static/js/main.a71126a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d4acd8.css",
+    "static/js/main.a71126a5.js"
+  ]
+}
